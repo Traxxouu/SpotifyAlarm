@@ -2,6 +2,12 @@
 
 **SpotiClock** est une application de bureau conçue pour améliorer votre routine de réveil en intégrant une horloge personnalisable avec des playlists Spotify. Réglez l'heure de l'alarme, fournissez une URL de playlist Spotify, et SpotiClock s'occupera du reste. Lorsque l'alarme se déclenche, elle ouvrira votre playlist dans un navigateur web et simulera un clic de souris pour démarrer automatiquement votre musique préférée.
 
+## Téléchargement .exe ⬇️
+
+Pour télécharger l'application en fichier .EXE, cliquez sur le logo ci-dessous :
+
+[![Télécharger SpotiClock](https://github.com/Traxxouu/SpotiClock/blob/main/SpotiClock/Media/download_spoticlock.png)](https://drive.google.com/file/d/16U1IxEkRXMyoa3EIa-AvIgGKSNaQJgAK/view?usp=drive_link)
+
 ## Fonctionnalités 🔧
 
 - **Heure d'alarme personnalisable** : Réglez l'heure de l'alarme à l'heure, à la minute et à la seconde.
@@ -16,12 +22,6 @@
 
 ![Définir la position de la souris](https://github.com/Traxxouu/SpotiClock/blob/main/SpotiClock/Media/SpotiClock_Interface2.png)
 *Fenêtre popup pour définir la position de la souris*
-
-## Téléchargement .exe ⬇️
-
-Pour télécharger l'application en fichier .EXE, cliquez sur le logo ci-dessous :
-
-[![Télécharger SpotiClock](https://github.com/Traxxouu/SpotiClock/blob/main/SpotiClock/Media/download_spoticlock.png)](https://drive.google.com/file/d/16U1IxEkRXMyoa3EIa-AvIgGKSNaQJgAK/view?usp=drive_link)
 
 ## Installation .py 🧰
 
