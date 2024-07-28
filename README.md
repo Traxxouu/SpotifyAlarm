@@ -21,7 +21,7 @@
 
 Pour télécharger l'application en fichier .EXE, cliquez sur le logo ci-dessous :
 
-[![Télécharger SpotiClock](path_to_download_logo)](link_to_exe_file)
+[![Télécharger SpotiClock](https://github.com/Traxxouu/SpotiClock/blob/main/SpotiClock/Media/download_spoticlock.png)](https://drive.google.com/file/d/16U1IxEkRXMyoa3EIa-AvIgGKSNaQJgAK/view?usp=drive_link)
 
 ## Installation .py 🧰
 
