@@ -11,10 +11,10 @@
 
 ## Captures d'écran 🖼️
 
-![Interface principale](path_to_screenshot_1)
+![Interface principale](https://github.com/Traxxouu/SpotiClock/blob/main/SpotiClock/Media/SpotiClock_Interface.png)
 *Interface principale de SpotiClock*
 
-![Définir la position de la souris](path_to_screenshot_2)
+![Définir la position de la souris](https://github.com/Traxxouu/SpotiClock/blob/main/SpotiClock/Media/SpotiClock_Interface2.png)
 *Fenêtre popup pour définir la position de la souris*
 
 ## Téléchargement .exe ⬇️
