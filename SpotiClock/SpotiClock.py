@@ -7,7 +7,7 @@ import threading
 import webbrowser
 import pytz
 
-# Fonctions de gestion de la position de la souris
+# position de la souris
 def seconde_fenetre():
     messagebox.showinfo("Information", "Vous avez 6 secondes pour placer votre souris après avoir fermé la fenêtre. \n🛡️ Ne bougez plus votre souris après l'avoir placée.")
     root.after(6000, position_souris)
@@ -19,7 +19,7 @@ def position_souris():
     messagebox.showinfo("Position actuelle", f"La position de votre souris est : {current_mouse_position}")
     print(f"Position actuelle de la souris : {current_mouse_position}")
 
-# Fonctions de gestion de l'alarme
+# alarme
 def set_alarm():
     alarm_time = f"{hour.get()}:{minute.get()}:{second.get()}"
     messagebox.showinfo("Alarme réglée", f"Alarme réglée à {alarm_time}")
@@ -40,7 +40,7 @@ def launch_spotify():
         messagebox.showerror("Erreur", "Veuillez entrer une URL de playlist Spotify.")
         return
     webbrowser.open(url)
-    time.sleep(10)  # Attendre que le navigateur lance la playlist
+    time.sleep(10)  # Att
     move_mouse_and_click(int(mouse_x.get()), int(mouse_y.get()))
     messagebox.showinfo("Alarme", "Il est temps de se réveiller!")
 
@@ -48,7 +48,7 @@ def move_mouse_and_click(x, y):
     pyautogui.moveTo(x, y)
     pyautogui.click()
 
-# Interface utilisateur avec Tkinter
+# Interface U
 root = tk.Tk()
 root.title("⏰ Spotify Réveille ⏰")
 root.geometry("600x460")
@@ -60,14 +60,14 @@ style.configure("TButton", font=("Helvetica", 12))
 style.configure("TCombobox", font=("Helvetica", 12))
 style.configure("TEntry", font=("Helvetica", 12))
 
-# Contenu de la fenêtre pour la position de la souris
+# Contenu fenêtre - position de la souris
 ttk.Label(root, text="Trouver la position de sa souris", font=("Helvetica", 14, "bold")).grid(row=0, column=0, columnspan=2, pady=(20, 10))
 ttk.Button(root, text="Commencer", command=seconde_fenetre).grid(row=1, column=0, columnspan=2, pady=(0, 20))
 
-# Titre pour la section de réglage de l'alarme
+#TITRE
 ttk.Label(root, text="Réglage de l'alarme", font=("Helvetica", 14, "bold")).grid(row=2, column=0, columnspan=2, pady=(10, 10))
 
-# Contenu de la fenêtre pour l'alarme
+# Contenu fenêtre pour l'alarme
 ttk.Label(root, text="Heure (HH)").grid(row=3, column=0, padx=10, pady=5)
 ttk.Label(root, text="Minute (MM)").grid(row=4, column=0, padx=10, pady=5)
 ttk.Label(root, text="Seconde (SS)").grid(row=5, column=0, padx=10, pady=5)
