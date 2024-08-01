@@ -40,10 +40,15 @@ Pour télécharger l'application en fichier .EXE, cliquez sur le logo ci-dessous
 
 ## Utilisation 🪛
 
-1. **Définir la position de la souris** : Cliquez sur le bouton "Commencer" pour ouvrir une fenêtre popup. Vous aurez 6 secondes pour déplacer votre souris à l'emplacement où se trouve le bouton de lecture de Spotify. L'application enregistrera la position de la souris.
+1. **Définir la position de la souris** : Cliquez sur le bouton "Commencer" pour ouvrir une fenêtre popup. Vous aurez 6 secondes pour déplacer votre souris à l'emplacement où se trouve le bouton de lecture de Spotify. L'application enregistrera la position de la souris. "suivre les images d'exemples ci-dessous"
 2. **Régler l'heure de l'alarme** : Utilisez les menus déroulants pour définir l'heure, la minute et la seconde de l'alarme.
 3. **Entrer l'URL de la playlist Spotify** : Copiez et collez l'URL de votre playlist Spotify préférée dans le champ prévu à cet effet.
 4. **Démarrer l'alarme** : Cliquez sur le bouton "Régler l'alarme" pour régler l'alarme. Lorsque l'heure de l'alarme est atteinte, l'application ouvrira l'URL de la playlist dans votre navigateur web par défaut et simulera un clic de souris pour démarrer la musique.
+
+![Utilisation - Exemple 1](https://github.com/Traxxouu/SpotiClock/blob/main/SpotiClock/Media/exemple1.png)
+![Utilisation - Exemple 2](https://github.com/Traxxouu/SpotiClock/blob/main/SpotiClock/Media/exemple2.png)
+![Utilisation - Exemple 3](https://github.com/Traxxouu/SpotiClock/blob/main/SpotiClock/Media/exemple3.png)
+
 
 ## Prérequis ⚡
 
