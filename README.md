@@ -6,7 +6,7 @@
 
 Pour télécharger l'application en fichier .EXE, cliquez sur le logo ci-dessous :
 
-[![Télécharger SpotiClock](https://github.com/Traxxouu/SpotiClock/blob/main/SpotiClock/Media/download_spoticlock.png)](https://drive.google.com/file/d/16U1IxEkRXMyoa3EIa-AvIgGKSNaQJgAK/view?usp=drive_link)
+[![Télécharger SpotiClock](khttps://drive.google.com/drive/folders/1054aag31PHzy6whlDiGdEQSxHx3ira6K?usp=sharing)
 
 ## Fonctionnalités 🔧
 
