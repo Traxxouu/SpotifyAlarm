@@ -27,7 +27,7 @@ Pour télécharger l'application en fichier .EXE, cliquez sur le logo ci-dessous
 
 1. Clonez le dépôt :
     ```bash
-    git clone https://github.com/yourusername/SpotiClock.git
+    git clone https://github.com/Traxxouu/SpotiClock.git
     ```
 2. Installez les bibliothèques nécessaires :
     ```bash
