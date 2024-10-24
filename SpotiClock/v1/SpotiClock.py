@@ -54,6 +54,7 @@ root.title("⏰ Spotify Réveille ⏰")
 root.geometry("600x460")
 root.resizable(False, False)
 
+#style
 style = ttk.Style()
 style.configure("TLabel", font=("Helvetica", 12))
 style.configure("TButton", font=("Helvetica", 12))
