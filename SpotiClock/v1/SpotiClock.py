@@ -1,3 +1,5 @@
+#Version 1
+
 import time
 import pyautogui
 import tkinter as tk
